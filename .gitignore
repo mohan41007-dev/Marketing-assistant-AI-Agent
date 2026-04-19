@@ -1,0 +1,16 @@
+# Environment
+.myvenv/
+.env
+
+# Local AI Databases
+marketing_vault/
+my_chroma_index/
+
+# Temporary Files
+temp_*
+*.log
+*.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
